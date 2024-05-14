@@ -1,16 +1,16 @@
-### Hi there 👋
+### **Bem vindo ao meu perfil** 🇧🇷⚽4️⃣👮‍♀️☠️
 
-<!--
-**SAbrinaTSR/SAbrinaTSR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Sabrina Tenório
 
-Here are some ideas to get you started:
+- Estou estudando no Alura
+- Estou me desenvolvendo na linguagem Javascript
+- Utilizo esse espaço para minha organização e compartilhamento de projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### Você pode entrar em contato comigo 📫
+
+  tenoriosabrina012@gmail.com
+  
+  @sabrynnatenorio
+
+
+  ![](https://media1.tenor.com/m/d_Qjg8l7ViUAAAAd/happy-celebration.gif)
