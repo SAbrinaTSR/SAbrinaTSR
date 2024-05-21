@@ -2,7 +2,7 @@
 
 Meu nome é Sabrina Tenório
 
-- Estou estudando no Alura
+- Estou estudando no [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem Javascript
 - Utilizo esse espaço para minha organização e compartilhamento de projetos desenvolvidos
 
@@ -13,4 +13,6 @@ Meu nome é Sabrina Tenório
   @sabrynnatenorio
 
 
-  ![](https://media1.tenor.com/m/d_Qjg8l7ViUAAAAd/happy-celebration.gif)
+
+
+![](https://media1.tenor.com/m/8b3A5xrmqtUAAAAC/gustavo-gomez-gomezmeiras.gif)
